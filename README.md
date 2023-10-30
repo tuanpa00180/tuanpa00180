@@ -1,5 +1,5 @@
-### Hi everyone, I'm Tuan 👋
-### Senior Quality Engineer
+# Hi everyone, I'm Tuan 👋
+## Senior Quality Engineer
 ### Mail: tuanpa1@gmail.com
 ### https://viblo.asia/u/tuanpa1/
 
