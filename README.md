@@ -2,7 +2,8 @@
 ## Senior Quality Engineer
 ### Mail: tuanpa1@gmail.com
 ### https://viblo.asia/u/tuanpa1/
-
+## Emphasis
+*This text will be italic* 
 <!--
 **tuanpa00180/tuanpa00180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
