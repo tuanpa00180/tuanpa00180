@@ -2,8 +2,12 @@
 ## Senior Quality Engineer
 ### Mail: tuanpa1@gmail.com
 ### https://viblo.asia/u/tuanpa1/
-## Emphasis
-*This text will be italic* 
+
+## Introduce
+*I have a small lab to researching CI/CD by Git* 
+
+## Images
+![This is an alt text.](https://lh3.googleusercontent.com/a/ACg8ocKW72Jb-3BYA50UDjrvtrOhrRCxeF5xe8m0wxAEMJ0QF7A=s288-c-no "This is a sample image.")
 <!--
 **tuanpa00180/tuanpa00180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
